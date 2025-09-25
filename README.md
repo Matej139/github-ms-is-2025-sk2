@@ -2,3 +2,5 @@
 Předmět IS skupina 2
 
 První testovací commit z notebooku v učebně H71 (2026-09-25, 13:31).
+
+Druhý testovací commit přímo z GitHubu v učebně H71 (2026-09-25, 13:47).
