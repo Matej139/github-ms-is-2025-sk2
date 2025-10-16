@@ -45,6 +45,15 @@ while (again == "a")
     Console.WriteLine($"Poslední číslo řady: {last}");
     Console.WriteLine($"Krok řady: {step}");
     Console.WriteLine("==========================================");
+    Console.WriteLine("První číslo:  {0}, Poslední číslo: {1}, Krok: {2}", first, last, step);
+    Console.WriteLine("==========================================");
+
+    int current = first;
+    while (current <= last)
+    {
+        Console.WriteLine(current);
+        current += step; // přičtení kroku k aktuálnímu číslu
+    }
 
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
     again = Console.ReadLine();
