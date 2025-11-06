@@ -56,6 +56,38 @@ while (again == "a")
         Console.Write("{0}; ", myRandomNumbers[i]);
     }
 
+    //počet kladných, záporných a nulových čísel
+    int kladna = 0;
+    int zaporny = 0;
+    int nula = 0;
+    for (int i = 0; i < numbers; i++)
+    {
+        if (myRandomNumbers[i] > 0)
+        {kladna++;}
+        else if (myRandomNumbers[i] < 0)
+        {zaporny++;}
+        else
+        {nula++;}
+    }
+
+    int suda = 0;
+    int licha = 0;
+    for (int i = 0; i < numbers; i++)
+    {
+        if (myRandomNumbers[i] % 2 == 0)
+        { suda++; }
+        else
+        { licha++; }
+    }
+
+    Console.WriteLine();
+    Console.WriteLine("================= Statistiky ================");
+    Console.WriteLine("Počet kladných čísel: {0}", kladna);
+    Console.WriteLine("Počet záporných čísel: {0}", zaporny);
+    Console.WriteLine("Počet nulových čísel: {0}", nula);
+    Console.WriteLine("Počet sudých čísel: {0}", suda);
+    Console.WriteLine("Počet lichých čísel: {0}", licha);
+    Console.WriteLine("============================================");
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu 'a'.");
