@@ -6,7 +6,7 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("********************************************************");
-    Console.WriteLine("************ Genetáror pseudonáhodných čísel ************");
+    Console.WriteLine("************ Generátor pseudonáhodných čísel ************");
     Console.WriteLine("********************************************************");
     Console.WriteLine("************** Matěj Svoboda ***************************");
     Console.WriteLine("*************** 6.11.2025 *****************************");
@@ -56,8 +56,38 @@ while (again == "a")
         Console.Write("{0}; ", myRandomNumbers[i]);
     }
 
-    
+    int compare = 0;    // počet porovnávání
+    int change = 0;   // počet výměň
 
+
+    for(int i=0; i < numbers - 1; i++)
+    {
+        //tento cyklus musí zajistit porovnávání dvou sousedních hodnot
+        // musí dále zajistit, aby se zmenšoval počet porovnávaných hodnot 
+        for(int j = 0; j < numbers - 1 - i; j++)
+        {
+            compare++;
+            if (myRandomNumbers[j] > myRandomNumbers[j + 1])
+            {
+                //prohodit hodnoty na pozicích j a j+1
+                int temp = myRandomNumbers[j + 1];
+                myRandomNumbers[j + 1] = myRandomNumbers[j];
+                myRandomNumbers[j] = temp;
+                change++;
+            }
+        }
+    }
+
+    Console.WriteLine();
+    Console.WriteLine();
+    Console.WriteLine("=================== Seřazená čísla ================");
+    for (int i = 0; i < numbers; i++)
+    {
+        Console.Write("{0}; ", myRandomNumbers[i]);
+    }
+
+
+    Console.WriteLine();
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu 'a'.");
     again = Console.ReadLine();
