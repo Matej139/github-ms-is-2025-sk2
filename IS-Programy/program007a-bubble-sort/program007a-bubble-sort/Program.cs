@@ -1,4 +1,5 @@
 ﻿using System.Runtime.InteropServices;
+using System.Diagnostics;
 
 string again = "a";
 
@@ -56,6 +57,10 @@ while (again == "a")
         Console.Write("{0}; ", myRandomNumbers[i]);
     }
 
+    Stopwatch myStopwatch = new Stopwatch();
+    myStopwatch.Start();
+
+
     int compare = 0;    // počet porovnávání
     int change = 0;   // počet výměň
 
@@ -77,6 +82,7 @@ while (again == "a")
             }
         }
     }
+    myStopwatch.Stop();
 
     Console.WriteLine();
     Console.WriteLine();
@@ -86,6 +92,11 @@ while (again == "a")
         Console.Write("{0}; ", myRandomNumbers[i]);
     }
 
+    Console.WriteLine();
+    Console.WriteLine("Počet porovnání: {0}", compare);
+    Console.WriteLine("Počet výměn: {0}", change);
+    Console.WriteLine();
+    Console.WriteLine("Čas seřazení čísel pomocí BS: {0}", myStopwatch.Elapsed);
 
     Console.WriteLine();
     Console.WriteLine();
