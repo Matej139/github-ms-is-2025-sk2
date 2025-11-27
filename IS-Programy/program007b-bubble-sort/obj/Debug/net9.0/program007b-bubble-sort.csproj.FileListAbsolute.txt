@@ -1,0 +1,15 @@
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program007b-bubble-sort\obj\Debug\net9.0\program007b-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program007b-bubble-sort\obj\Debug\net9.0\program007b-bubble-sort.AssemblyInfoInputs.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program007b-bubble-sort\obj\Debug\net9.0\program007b-bubble-sort.AssemblyInfo.cs
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program007b-bubble-sort\obj\Debug\net9.0\program007b-bubble-sort.csproj.CoreCompileInputs.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program007b-bubble-sort\obj\Debug\net9.0\program007b-bubble-sort.sourcelink.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program007b-bubble-sort\bin\Debug\net9.0\program007b-bubble-sort.exe
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program007b-bubble-sort\bin\Debug\net9.0\program007b-bubble-sort.deps.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program007b-bubble-sort\bin\Debug\net9.0\program007b-bubble-sort.runtimeconfig.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program007b-bubble-sort\bin\Debug\net9.0\program007b-bubble-sort.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program007b-bubble-sort\bin\Debug\net9.0\program007b-bubble-sort.pdb
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program007b-bubble-sort\obj\Debug\net9.0\program007b-bubble-sort.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program007b-bubble-sort\obj\Debug\net9.0\refint\program007b-bubble-sort.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program007b-bubble-sort\obj\Debug\net9.0\program007b-bubble-sort.pdb
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program007b-bubble-sort\obj\Debug\net9.0\program007b-bubble-sort.genruntimeconfig.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program007b-bubble-sort\obj\Debug\net9.0\ref\program007b-bubble-sort.dll
