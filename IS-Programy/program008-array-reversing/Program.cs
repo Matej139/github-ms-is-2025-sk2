@@ -56,7 +56,25 @@ while (again == "a")
         Console.Write("{0}; ", myRandomNumbers[i]);
     }
 
+    //reverze pole
+    int temp = 0;
+    for (int i = 0; i < numbers / 2; i++)
+    {
+        temp = myRandomNumbers[i];
+        myRandomNumbers[i] = myRandomNumbers[numbers-i-1];
+        myRandomNumbers[numbers-i-1] = temp;
+    }
+
+    Console.WriteLine();
+    Console.WriteLine("Reverzovaná čísla:");
+    for (int i = 0; i < numbers; i++)
+    {
+        
+        Console.Write("{0}; ", myRandomNumbers[i]);
+    }
     
+
+
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu 'a'.");

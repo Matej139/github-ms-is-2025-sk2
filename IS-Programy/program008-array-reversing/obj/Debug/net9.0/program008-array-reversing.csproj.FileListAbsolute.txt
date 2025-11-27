@@ -1,0 +1,15 @@
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program008-array-reversing\bin\Debug\net9.0\program008-array-reversing.exe
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program008-array-reversing\bin\Debug\net9.0\program008-array-reversing.deps.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program008-array-reversing\bin\Debug\net9.0\program008-array-reversing.runtimeconfig.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program008-array-reversing\bin\Debug\net9.0\program008-array-reversing.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program008-array-reversing\bin\Debug\net9.0\program008-array-reversing.pdb
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.AssemblyInfoInputs.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.AssemblyInfo.cs
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.csproj.CoreCompileInputs.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.sourcelink.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\refint\program008-array-reversing.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.pdb
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.genruntimeconfig.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\ref\program008-array-reversing.dll
