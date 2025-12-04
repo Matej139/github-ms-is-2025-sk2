@@ -24,18 +24,18 @@ while (again == "a")
         Console.Write("Nezadali jste platné číslo přesnosti. Zadejte ho znovu: ");
     }
 
-    int i = 1;
-    double piCtvrt = 1.0;
-    int znamenko = 1;
+    double i = 1;
+    double piCtvrt = 1;
+    double znamenko = 1;
 
 
     Console.WriteLine();
 
-    while ((1.0/i)>=presnost)
+    while ((1/i)>=presnost)
     {
         i+=2;
         znamenko = -znamenko;
-        piCtvrt = piCtvrt + znamenko * (1.0/i);
+        piCtvrt = piCtvrt + znamenko * (1/i);
     }
 
     double pi = 4 * piCtvrt;
