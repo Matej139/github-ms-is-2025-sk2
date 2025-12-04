@@ -1,0 +1,15 @@
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program011a-vypocet-pi\bin\Debug\net9.0\program011a-vypocet-pi.exe
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program011a-vypocet-pi\bin\Debug\net9.0\program011a-vypocet-pi.deps.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program011a-vypocet-pi\bin\Debug\net9.0\program011a-vypocet-pi.runtimeconfig.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program011a-vypocet-pi\bin\Debug\net9.0\program011a-vypocet-pi.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program011a-vypocet-pi\bin\Debug\net9.0\program011a-vypocet-pi.pdb
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.AssemblyInfoInputs.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.AssemblyInfo.cs
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.csproj.CoreCompileInputs.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.sourcelink.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\refint\program011a-vypocet-pi.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.pdb
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.genruntimeconfig.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\ref\program011a-vypocet-pi.dll

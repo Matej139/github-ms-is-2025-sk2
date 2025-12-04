@@ -17,17 +17,31 @@ while (again == "a")
     //int first = int.Parse(Console.ReadLine());
 
     // Vstup hodnoty do programu, řešený lépe
-    Console.Write("Zadejte číslo (celé číslo): ");
-    int first;
-    while (!int.TryParse(Console.ReadLine(), out first))
+    Console.Write("Zadejte přesnost výpočtu: ");
+    double presnost;
+    while (!double.TryParse(Console.ReadLine(), out presnost))
     {
-        Console.Write("Nezadali jste celé číslo. Zadejte celé číslo znovu: ");
+        Console.Write("Nezadali jste platné číslo přesnosti. Zadejte ho znovu: ");
     }
 
+    int i = 1;
+    double piCtvrt = 1.0;
+    int znamenko = 1;
 
 
+    Console.WriteLine();
 
+    while ((1.0/i)>=presnost)
+    {
+        i+=2;
+        znamenko = -znamenko;
+        piCtvrt = piCtvrt + znamenko * (1.0/i);
+    }
 
+    double pi = 4 * piCtvrt;
+
+    Console.WriteLine();
+    Console.WriteLine("Vaše PI dané s přesností je: {0}", pi);
 
 
 
