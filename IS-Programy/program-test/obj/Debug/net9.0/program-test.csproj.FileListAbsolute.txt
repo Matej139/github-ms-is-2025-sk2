@@ -1,0 +1,15 @@
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program-test\bin\Debug\net9.0\program-test.exe
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program-test\bin\Debug\net9.0\program-test.deps.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program-test\bin\Debug\net9.0\program-test.runtimeconfig.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program-test\bin\Debug\net9.0\program-test.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program-test\bin\Debug\net9.0\program-test.pdb
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program-test\obj\Debug\net9.0\program-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program-test\obj\Debug\net9.0\program-test.AssemblyInfoInputs.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program-test\obj\Debug\net9.0\program-test.AssemblyInfo.cs
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program-test\obj\Debug\net9.0\program-test.csproj.CoreCompileInputs.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program-test\obj\Debug\net9.0\program-test.sourcelink.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program-test\obj\Debug\net9.0\program-test.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program-test\obj\Debug\net9.0\refint\program-test.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program-test\obj\Debug\net9.0\program-test.pdb
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program-test\obj\Debug\net9.0\program-test.genruntimeconfig.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program-test\obj\Debug\net9.0\ref\program-test.dll

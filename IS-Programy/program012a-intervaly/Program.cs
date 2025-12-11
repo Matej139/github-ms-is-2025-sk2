@@ -1,65 +1,82 @@
-﻿using System.Runtime.InteropServices;
-
-string again = "a";
+﻿string again = "a";
 
 while (again == "a")
 {
     Console.Clear();
-    Console.WriteLine("********************************************************");
-    Console.WriteLine("************ Genetáror pseudonáhodných čísel ************");
-    Console.WriteLine("********************************************************");
-    Console.WriteLine("************** Matěj Svoboda ***************************");
-    Console.WriteLine("*************** 6.11.2025 *****************************");
-    Console.WriteLine("********************************************************");
+    Console.WriteLine("*******************************************");
+    Console.WriteLine("***** Intervaly *****");
+    Console.WriteLine("*******************************************");
+    Console.WriteLine("************* Tomáš Žižka *****************");
+    Console.WriteLine("*******************************************");
     Console.WriteLine();
 
-    int numbers = 0;
-    Console.Write("Zadejte počet generovaných čísel: ");
-    while (!int.TryParse(Console.ReadLine(), out numbers))
+    Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
+    int n;
+    while (!int.TryParse(Console.ReadLine(), out n))
     {
-        Console.Write("Zadejte celé číslo: ");
+        Console.Write("Nezadali jste celé číslo. Zadejte počet generovaných čísel znovu: ");
     }
 
-    Console.Write("Zadejte dolní mez (menší než horní mez): ");
-    int lowerBound;
-    while (!int.TryParse(Console.ReadLine(), out lowerBound))
+    Console.Write("Zadejte dolní mez (celé číslo): ");
+    int dm;
+    while (!int.TryParse(Console.ReadLine(), out dm))
     {
-        Console.Write("Zadejte celé číslo:");
+        Console.Write("Nezadali jste celé číslo. Zadejte dolní mez znovu: ");
     }
 
-    Console.Write("Zadejte horní mez (větší než 0): ");
-    int upperBound;
-    while (!int.TryParse(Console.ReadLine(), out upperBound))
+    Console.Write("Zadejte horní mez (celé číslo): ");
+    int hm;
+    while (!int.TryParse(Console.ReadLine(), out hm))
     {
-        Console.Write("Zadejte celé číslo: ");
+        Console.Write("Nezadali jste celé číslo. Zadejte horní mez znovu: ");
     }
 
     Console.WriteLine();
-    Console.WriteLine("================= Generovaná čísla ================");
-    Console.WriteLine("Počet čísel: {0}, Dolní mez: {1}, Horní mez: {2}", numbers, lowerBound, upperBound);
-    Console.WriteLine("===================================================");
+    Console.WriteLine("==========================================");
+    Console.WriteLine("Zadané hodnoty:");
+    Console.WriteLine("Počet čísel: {0}; dolní mez: {1}; horní mez: {2}", n, dm, hm);
+    Console.WriteLine("==========================================");
     Console.WriteLine();
 
+    //deklarace pole    
+    int[] myArray = new int[n];
 
-    //deklarace pole (array)
-    int[] myRandomNumbers = new int[numbers];
+    Random randomNumber = new Random();
 
+    int int1 = 0;
+    int int2 = 0;
+    int int3 = 0;
+    int int4 = 0;
 
-    //příprava pro využití třídy Random
-    Random myRandomNumber = new Random(50); //50 = seed
-
-    //generování čísel a jejich uložení do pole
-    Console.WriteLine("Generovaná čísla:");
-    for (int i = 0; i < numbers; i++)
+    Console.WriteLine("\n\nNáhodná čísla:");
+    for (int i = 0; i < n; i++)
     {
-        myRandomNumbers[i] = myRandomNumber.Next(lowerBound, upperBound + 1);
-        Console.Write("{0}; ", myRandomNumbers[i]);
+        myArray[i] = randomNumber.Next(dm, hm + 1);
+        Console.Write("{0}; ", myArray[i]);
+
+        if (myArray[i] <= (0.25 * hm))
+        {
+            int1++;
+        }
+        else if (myArray[i] <= (0.5 * hm))
+        {
+            int2++;
+        }
+        else if (myArray[i] <= (0.75 * hm))
+        {
+            int3++;
+        }
+        else
+            int4++;
     }
 
-    
-    
+    Console.WriteLine("\nInterval <{0}, {1}>: {2}", dm, 0.25 * hm, int1);
+    Console.WriteLine("Interval <{0}, {1}>: {2}", 0.25 * hm + 1, 0.5 * hm, int2);
+    Console.WriteLine("Interval <{0}, {1}>: {2}", 0.5 * hm + 1, 0.75 * hm, int3);
+    Console.WriteLine("Interval <{0}, {1}>: {2}", 0.75 * hm + 1, hm, int4);
 
     Console.WriteLine();
-    Console.WriteLine("Pro opakování programu stiskněte klávesu 'a'.");
+    Console.WriteLine("Pro opakování programu stiskněte klávesu A");
     again = Console.ReadLine();
+
 }
