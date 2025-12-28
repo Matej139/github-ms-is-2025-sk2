@@ -1,0 +1,15 @@
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program010b-insertion-sort\bin\Debug\net9.0\program010b-insertion-sort.exe
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program010b-insertion-sort\bin\Debug\net9.0\program010b-insertion-sort.deps.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program010b-insertion-sort\bin\Debug\net9.0\program010b-insertion-sort.runtimeconfig.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program010b-insertion-sort\bin\Debug\net9.0\program010b-insertion-sort.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program010b-insertion-sort\bin\Debug\net9.0\program010b-insertion-sort.pdb
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program010b-insertion-sort\obj\Debug\net9.0\program010b-insertion-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program010b-insertion-sort\obj\Debug\net9.0\program010b-insertion-sort.AssemblyInfoInputs.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program010b-insertion-sort\obj\Debug\net9.0\program010b-insertion-sort.AssemblyInfo.cs
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program010b-insertion-sort\obj\Debug\net9.0\program010b-insertion-sort.csproj.CoreCompileInputs.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program010b-insertion-sort\obj\Debug\net9.0\program010b-insertion-sort.sourcelink.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program010b-insertion-sort\obj\Debug\net9.0\program010b-insertion-sort.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program010b-insertion-sort\obj\Debug\net9.0\refint\program010b-insertion-sort.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program010b-insertion-sort\obj\Debug\net9.0\program010b-insertion-sort.pdb
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program010b-insertion-sort\obj\Debug\net9.0\program010b-insertion-sort.genruntimeconfig.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program010b-insertion-sort\obj\Debug\net9.0\ref\program010b-insertion-sort.dll
