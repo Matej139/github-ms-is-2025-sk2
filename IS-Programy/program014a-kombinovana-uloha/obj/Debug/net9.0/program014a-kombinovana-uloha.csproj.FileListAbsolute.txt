@@ -1,0 +1,15 @@
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program014a-kombinovana-uloha\bin\Debug\net9.0\program014a-kombinovana-uloha.exe
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program014a-kombinovana-uloha\bin\Debug\net9.0\program014a-kombinovana-uloha.deps.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program014a-kombinovana-uloha\bin\Debug\net9.0\program014a-kombinovana-uloha.runtimeconfig.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program014a-kombinovana-uloha\bin\Debug\net9.0\program014a-kombinovana-uloha.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program014a-kombinovana-uloha\bin\Debug\net9.0\program014a-kombinovana-uloha.pdb
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.AssemblyInfoInputs.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.AssemblyInfo.cs
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.csproj.CoreCompileInputs.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.sourcelink.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\refint\program014a-kombinovana-uloha.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.pdb
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\program014a-kombinovana-uloha.genruntimeconfig.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program014a-kombinovana-uloha\obj\Debug\net9.0\ref\program014a-kombinovana-uloha.dll
