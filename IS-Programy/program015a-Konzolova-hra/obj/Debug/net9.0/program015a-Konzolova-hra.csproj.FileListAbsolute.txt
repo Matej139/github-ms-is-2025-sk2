@@ -1,0 +1,15 @@
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.exe
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.deps.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.runtimeconfig.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.pdb
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.AssemblyInfoInputs.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.AssemblyInfo.cs
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.csproj.CoreCompileInputs.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.sourcelink.json
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\refint\program015a-Konzolova-hra.dll
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.pdb
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.genruntimeconfig.cache
+C:\Users\Matěj\Desktop\IS_TUL\github-ms-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\ref\program015a-Konzolova-hra.dll
